@@ -1,16 +1,14 @@
-## Hi there 👋
+# Taiki Ishii
+ものづくり好きのネットワークエンジニア／メイカーです。
 
-<!--
-**taikiishii/taikiishii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 今やっていること: 3Dプリント×ESP32倒立振子
+- 🧰 スタック: Python, VBA, Cisco ACI, KiCad, Fusion 360
+- 📝 ブログ: https://example.com
+- ✉️ 連絡: taiki@example.com
 
-Here are some ideas to get you started:
+## 最近の作品
+- [Inverted Pendulum - ESP32](https://github.com/yourrepo)
+- [MAX7219 ひらがなフォント](https://github.com/yourrepo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## リンク
+[Twitter](https://x.com/xxx) ・ [Qiita](https://qiita.com/xxx) ・ [YouTube](https://youtube.com/xxx)
